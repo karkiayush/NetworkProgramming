@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    ".fantomasignore": "ignore",
+    "time.h": "c",
+    "string.h": "c"
+  }
+}
