@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    ".fantomasignore": "ignore",
+    "time.h": "c",
+    "string.h": "c",
+    "types.h": "c",
+    "stdio.h": "c"
+  },
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "PG Local",
+      "database": "FinShark",
+      "username": "postgres",
+      "connectionTimeout": 30
+    }
+  ],
+  "cSpell.words": ["mxpfo"]
+}
